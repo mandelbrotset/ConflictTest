@@ -1,5 +1,5 @@
 
-public class Test {
+public class Test extends B {
 	private int x;
 	
 	public Test(int x) {
